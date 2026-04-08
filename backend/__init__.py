@@ -1,1 +1,0 @@
-# Rescue Vision - Core Package
