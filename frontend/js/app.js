@@ -1,4 +1,4 @@
-const LOCAL_API_BASE = "http://127.0.0.1:8001";
+const LOCAL_API_BASE = "http://127.0.0.1:8000";
 const API = resolveApiBase();
 const STORAGE_KEY = "resq-vision-dashboard-state";
 
